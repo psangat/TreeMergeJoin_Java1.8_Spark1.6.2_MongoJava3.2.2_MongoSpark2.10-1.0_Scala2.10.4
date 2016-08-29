@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/TreeMergeJoin_Java1.8_Spark1.6.2_MongoJava3.2.2_MongoSpark2.10-1.0_Scala2.10.4.iml" filepath="$PROJECT_DIR$/TreeMergeJoin_Java1.8_Spark1.6.2_MongoJava3.2.2_MongoSpark2.10-1.0_Scala2.10.4.iml" />
+    </modules>
+  </component>
+</project>
