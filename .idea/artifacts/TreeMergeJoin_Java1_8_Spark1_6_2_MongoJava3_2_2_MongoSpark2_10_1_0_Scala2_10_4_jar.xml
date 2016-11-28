@@ -1,0 +1,21 @@
+<component name="ArtifactManager">
+  <artifact type="jar" name="TreeMergeJoin_Java1.8_Spark1.6.2_MongoJava3.2.2_MongoSpark2.10-1.0_Scala2.10.4:jar">
+    <output-path>$PROJECT_DIR$/out/artifacts/TreeMergeJoin_Java1_8_Spark1_6_2_MongoJava3_2_2_MongoSpark2_10_1_0_Scala2_10_4_jar</output-path>
+    <root id="archive" name="TreeMergeJoin_Java1.8_Spark1.6.2_MongoJava3.2.2_MongoSpark2.10-1.0_Scala2.10.4.jar">
+      <element id="module-output" name="TreeMergeJoin_Java1.8_Spark1.6.2_MongoJava3.2.2_MongoSpark2.10-1.0_Scala2.10.4" />
+      <element id="extracted-dir" path="C:/Program Files (x86)/scala/lib/scala-actors-migration.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="C:/Program Files (x86)/scala/lib/scala-actors.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="C:/Program Files (x86)/scala/lib/scala-library.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="C:/Program Files (x86)/scala/lib/scala-reflect.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="C:/Program Files (x86)/scala/lib/scala-swing.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="C:/Applications/mongo-spark-connector_2.10-1.0.0.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="C:/Applications/mongo-java-driver-3.2.2.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="C:/Applications/BigData/spark-1.6.2-bin-hadoop2.6/lib/datanucleus-core-3.2.10.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="C:/Applications/BigData/spark-1.6.2-bin-hadoop2.6/lib/datanucleus-rdbms-3.2.9.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="C:/Applications/BigData/spark-1.6.2-bin-hadoop2.6/lib/spark-1.6.2-yarn-shuffle.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="C:/Applications/BigData/spark-1.6.2-bin-hadoop2.6/lib/datanucleus-api-jdo-3.2.6.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="C:/Applications/BigData/spark-1.6.2-bin-hadoop2.6/lib/spark-assembly-1.6.2-hadoop2.6.0.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="C:/Applications/BigData/spark-1.6.2-bin-hadoop2.6/lib/spark-examples-1.6.2-hadoop2.6.0.jar" path-in-jar="/" />
+    </root>
+  </artifact>
+</component>
